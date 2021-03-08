@@ -1,0 +1,19 @@
+| Metric                            | Value                            | Unit    |
+|-----------------------------------|----------------------------------|---------|
+| No. of FLOPs                      | 0.0                              | GFLOPs  |
+| No. of parameters                 | 45.591497                        | Million |
+| Memory for storing Parameters     | 86.9588794708252                 | MB      |
+| Memory Required by Complete Model | 17.520000000000003               | GB      |
+| Using GPU(s)                      | 2.0                              | GPU(s)  |
+| Input Batch Shape                 | (4, 512, 1024, 3)                | BxHxWxC |
+| Labels Batch Shape                | (4, 512, 1024, 1)                | BxHxWxC |
+| Model Output Shape                | (?, 512, 1024, 15)               | ?xHxWxC |
+| Initial LR                        | 0.002                            | -       |
+| LR Decay                          | polynomial_decay                 | -       |
+| Weight Decay                      | True                             | -       |
+| Weight Decay Coff.                | 0.005                            | -       |
+| Initial Dropout                   | 0.1                              | -       |
+| Dropout Decay                     | True                             | -       |
+| Dropout Schedule                  | [0.2 0.3 0.4]                    | -       |
+| Dropout after Epoch               | [ 5 10 15]                       | -       |
+| Loss Finction                     | <function Weighted_BCEnDice_loss | -       |
