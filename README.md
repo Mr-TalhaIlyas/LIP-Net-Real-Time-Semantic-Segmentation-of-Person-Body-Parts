@@ -1,5 +1,5 @@
 
-
+[![CC BY 4.0][cc-by-shield]][cc-by]
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 # LIP Net: Real-Time Semantic Segmentation of Person Body Parts
 
@@ -38,3 +38,12 @@ article{park2020low,
 }
 ```
 OR via [google scholar](https://scholar.google.com/citations?user=HYNOyyAAAAAJ&hl=en)
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
