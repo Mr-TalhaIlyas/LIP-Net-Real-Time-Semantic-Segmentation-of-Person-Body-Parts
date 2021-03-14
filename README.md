@@ -25,3 +25,16 @@ For details of LIP dataset [visit here](https://github.com/Mr-TalhaIlyas/Color-P
 ### Example Output
 
 ![alt text](https://github.com/Mr-TalhaIlyas/LIP-Net-Real-Time-Semantic-Segmentation-of-Person-Body-Parts/blob/master/screens/img3.png)
+
+#### **_Citation_**
+If you like to use our work please consider citing us;
+```
+article{park2020low,
+  title={Low-Cost 3D Sensor System: Using Image-based Laser Triangulation},
+  author={Park, JinSeong and Ilyas, Talha and Lee, MunHaeng and Kim, SangCheol},
+  journal={제어로봇시스템학회 국내학술대회 논문집},
+  pages={105--107},
+  year={2020}
+}
+```
+OR via [google scholar](https://scholar.google.com/citations?user=HYNOyyAAAAAJ&hl=en)
